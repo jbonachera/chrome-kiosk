@@ -1,0 +1,3 @@
+# Kiosk
+
+Chrome-nased kiosk
